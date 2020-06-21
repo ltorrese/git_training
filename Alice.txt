@@ -1,6 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 Hi? I'm not Alice and im learnig how to use git 
-=======
-Hi? I'm not Alice and im learnig how to use git 
->>>>>>> change_alice
+I am adding text on Alice.txt through  master to attempt to do a rebase with patrick branch
