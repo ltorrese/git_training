@@ -2,4 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Hi? I'm not Alice and im learnig how to use git 
 I am adding text on Alice.txt through  master to attempt to do a rebase with patrick branch
 Adding this text and I will try to fetch it from my local 
-
+Change to cause pull error
