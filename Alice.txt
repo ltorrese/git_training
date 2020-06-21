@@ -2,5 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <<<<<<< HEAD
 Hi? I'm not Alice and im learnig how to use git 
 =======
-Here is my change 
+Hi? I'm not Alice and im learnig how to use git 
 >>>>>>> change_alice
